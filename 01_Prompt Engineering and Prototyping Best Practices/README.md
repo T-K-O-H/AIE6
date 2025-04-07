@@ -36,18 +36,26 @@ Each assignment will have a few of the following categories of exercises:
 
 Please evaluate your system on the following questions:
 
-
+https://www.loom.com/share/e1e0c8567d944aeca2ad76c1b988d8c5 - Loom Recording
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:
+    - Aspect Tested: Did it give a simple answer for a beginner
+    - Aspect Failed: Some aspects were okay in the response but others were not, improvements made further the goal of simple and quicker response
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: Testing to see if it would summarize a financial article
+    - Aspect Failed: Summary was too long and summarized points of article
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: Word count, story content
+    - Aspect Passed: Word count good and content good
+    - Apect Failed on improvements: Word Count 96, keeping things short and sweet on the system template might have resulted in this
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: Simple math
+    - Aspect Passed: Simple math
+    - Aspect Failed: Too drawn out and not to the point
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Rewriting based on context
+    - Aspect Passed: Both original app and updated app wrote a good article
+    - Improvements: being able to prompt again w/ original promp response context for a better article on my updated application yields better article
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -56,6 +64,10 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 Please make adjustments to your application that you believe will improve the vibe check done above, push the changes to your HF Space and redo the above vibe check.
 
 > NOTE: You may reach for improving the model, changing the prompt, or any other method.
+- Added API key to work correctly with huggingface secrets
+- Remembering responses
+- Debugging by showing tokens retrieved in console
+
 
 ### A Note on Vibe Checking
 
