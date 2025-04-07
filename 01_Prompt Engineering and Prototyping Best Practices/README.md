@@ -36,6 +36,8 @@ Each assignment will have a few of the following categories of exercises:
 
 Please evaluate your system on the following questions:
 
+
+
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested:
 2. Read the following paragraph and provide a concise summary of the key points…
@@ -64,3 +66,9 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
 What are some limitations of vibe checking as an evaluation tool?
+
+A good and easy example for me is bias and prejudice
+People all have different experiences and goals and vibe checking something might look good to one but completely unacceptable to another
+An simple failure is I like certain sports teams, imagine I vibe checked sports related question and the opposing team was listed as "better" I would be more inclined to then fail that check because of my bias towards my team
+Vibe checking is a highly subjective test is also hard to automate from a SDET perspective which will then mean as a Lead QA I would have to assign people to manually do the work every deployment
+If the application or applications have multiple points of touch that will also need to be checked and the scale can quickly start to run away with QA resources, and that introduces more bias.
