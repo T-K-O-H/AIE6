@@ -1,7 +1,14 @@
-# Python virtual environment
+# Python virtual environments
 .venv/
+.venv_backup/
 venv/
 ENV/
+env/
+virtualenv/
+.Python
+pyvenv.cfg
+pip-log.txt
+pip-delete-this-directory.txt
 
 # Python bytecode
 __pycache__/
