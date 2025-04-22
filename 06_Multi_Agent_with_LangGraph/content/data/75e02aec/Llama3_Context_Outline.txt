@@ -1,0 +1,8 @@
+1. Introduction to Llama-3 and its significance
+2. Overview of context length increase from 8K to 80K tokens
+3. Methodology: QLoRA fine-tuning and its efficiency
+4. Impact on performance across evaluation tasks
+5. Role of synthetic training samples from GPT-4
+6. Future potential for context length extension
+7. Plans for public resource release
+8. Conclusion: Implications for large language models
