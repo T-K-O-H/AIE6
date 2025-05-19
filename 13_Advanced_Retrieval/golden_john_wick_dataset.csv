@@ -1,0 +1,301 @@
+id,question,ground_truth_context,question_type
+e7ff998e,Who is the main character in John Wick?,John Wick (Reeves),factual
+e8d571a5,Why does the reviewer compare John Wick to the movie Taken?,The reviewer compares John Wick to Taken because both movies involve a protagonist seeking revenge for a loved one.,reasoning
+051338ee,What is the main reason why the reviewer disliked A Good Day to Die Hard?,"The reviewer disliked A Good Day to Die Hard because it was convoluted, unlike John Wick which succeeds in its simplicity.",distractor
+e5f97456,"What are most movies nowadays full of, according to the review?","wire work, sci-fi, etc.",factual
+e2bb15e9,Why does the review mention that certain movies are full of needless or predictable background stories?,Because the filmmakers realized that the public was sick of them.,reasoning
+93abc384,Is there a troubled teenage daughter present in the movie being reviewed?,No,distractor
+56dde849,How many John Wick movies were released before the fourth installment?,three,factual
+c0bf9a61,Why did the reviewer decide to watch 'John Wick'?,thought it would be time to check it out,reasoning
+3645fb94,What was the overall rating of the fourth installment of John Wick?,scoring immensely at the cinemas,distractor
+7474c5a9,Who directed John Wick?,Chad Stahelski,factual
+2f5e8725,Why are the action sequences in John Wick considered special?,Because they are well made choreographies without quick-cuts or shaky cameras,reasoning
+38b29e5d,What is the main selling point of John Wick according to the review?,Real virtuoso action sequences,distractor
+438ddc71,What is the main driving force behind John Wick's actions in the movie?,personal tragedy,factual
+dca51fae,Why does the review mention that the movie feels like a violent music video at times?,sly direction and editing,reasoning
+732f90bc,What is the reviewer's opinion on the story of the movie?,doesn't have much of a story at its disposal,distractor
+f59ec441,What is the main motivation for John Wick in the movie?,To seek vengeance for the death of his dog and the theft of his car,factual
+b1662f8d,Why does John Wick become a target for hit men in the movie?,Because he has a price on his head due to seeking revenge against the gangsters,reasoning
+f7998402,Who is the main antagonist in the movie?,An arrogant Russian mob prince and hoodlums,distractor
+04d5a157,What is the review score given to the movie John Wick?,6,factual
+52f3793c,Why does the reviewer mention that John Wick is different from other action films?,"It doesn't try to be inventive or over-the-top, it just plays to its strengths.",reasoning
+7ae71951,Is John Wick considered a typical action film according to the review?,It's so much different than the action films we have today.,distractor
+2d5420ab,What is the title of the movie being reviewed?,John Wick,factual
+bf21f35a,Why does the reviewer think John Wick is better than other action films?,The reviewer enjoyed the fast-paced action and Keanu Reeves' performance.,reasoning
+c8c4e41e,How much profit did the movie John Wick make in the US according to the review?,40 million,distractor
+da4d2948,What is praised about the action in John Wick?,The action is beautifully choreographed,factual
+13fd2afd,Why is the setup of John Wick described as surprisingly emotional?,Because it is emotional for an action flick,reasoning
+ce0a040b,What is the main criticism of John Wick according to the review?,It's hard to find anything bad to say about John Wick,distractor
+ab0690e3,Who is the lead actor in John Wick?,Keanu Reeves,factual
+ce3c6567,Why does the reviewer mention that John Wick seems like a direct-to-DVD slopfest on paper?,Because of the premise of a man seeking revenge for his murdered dog,reasoning
+8cefab54,What genre does the reviewer compare John Wick to?,Tarantino-esque dialog mixed with the swagger of action stars from the 70s,distractor
+81a2207a,Who does John Wick lose to cancer in the movie?,his wife,factual
+5541b800,Why was John hesitant to try seeking revenge at first?,Because it had been awhile since he liked a Keanu movie,reasoning
+f0e59352,What was the main reason the thugs broke into John's house?,They wanted his car,distractor
+99e38142,What is JOHN WICK compared to in terms of similarity?,TAKEN,factual
+26c2bf3b,Why is JOHN WICK described as a lean and pared-down film-making?,It's all about intensity and momentum.,reasoning
+5771fd51,Which movie is mentioned as having similarities to JOHN WICK?,TAKEN,distractor
+a02eb9dd,What is the overall tone of the review?,exhilarating,factual
+64409b10,Why does the reviewer describe the movie as exhilarating?,The fun factor and amazing action in the film,reasoning
+555a64c2,Did the reviewer find the movie boring?,I could not stop myself from having a blast!,distractor
+60281ab1,Who is mentioned as one of the nicest guys to work with in Hollywood?,Keanu Reeves,factual
+ef3b53f3,Why does the reviewer suggest that Hollywood should stop coming up with original ideas?,"Because when they do, films like this one are the result",reasoning
+805c5e42,What is the main theme of the movie according to the review?,Cliched action,distractor
+e8ad504b,Who is the main character in 'John Wick'?,Keanu Reeves,factual
+15f0af90,Why is 'John Wick' described as one of the best action films of the year?,"Because it is short, to the point, and filled with non-stop excitement.",reasoning
+3c058551,How long is the running time of 'John Wick'?,1 hour and 36 minutes,distractor
+04f8c25f,How was the action movie described in the review?,Mediocre,factual
+0a4a9984,Why might someone find this action movie disappointing?,It was described as mediocre,reasoning
+0dc82ec6,Was the action movie praised in the review?,No,distractor
+18b934c5,What is the main criticism of the story in the review?,There's no colour to the story,factual
+6d1f3df3,Why does the reviewer mention joining the Army in the review?,If all you need to think something is cool is to see people getting beaten up or shot,reasoning
+53ae049f,What is the setting where garish colours are mentioned in the review?,nightclub scenes,distractor
+9ae56bd4,What is the main reason 'John Wick' became a very good film according to the review?,"It does not attempt to be anything of great cinematic value or teach groundbreaking stories on moral, loyalty, or betrayal.",factual
+36e4ba07,Why does the review mention that the occasional predictability of the film does not hurt it?,The script goes for a gutsy revenge thriller that is not hurt by its occasional predictability.,reasoning
+0e4bb0b2,What is one reason the review gives for 'John Wick' potentially becoming a failure?,The two directors have never made a film before and almost exclusively worked in the stunt department so far.,distractor
+5413b00c,Who is the main character in the movie?,John (Keanu Reeves),factual
+d53c45bb,Why does the young Russian-American punk target John Wick?,The punk wants to buy Wick's classic car but Wick declines.,reasoning
+fe720fb9,What is the main conflict in the movie?,The contest between the Russian mobster and his gang against Wick on his own.,distractor
+3d527965,What rating did the reviewer give to 'John Wick'?,6,factual
+f2a38a8b,Why did the reviewer give 'John Wick' a slightly higher rating?,Because they thought the cinematography and fight choreography were really good.,reasoning
+cbe44846,Did the reviewer mention any specific actors in 'John Wick' that they liked?,No,distractor
+bbc19054,Who directed the film John Wick?,Reeve's stuntman from The Matrix,factual
+50a7ee12,Why does the reviewer compare John Wick to Millers Crossing?,It reminds the reviewer of Millers Crossing and is cooler than any other recent attempt at noir.,reasoning
+b5717f8f,What is John Wick's main goal in the film?,He wages a one man war against the Russian Mafia after some young kids steal his peace.,distractor
+5dda5a76,What type of film is John Wick?,action film,factual
+b056ba9f,Why does the reviewer mention Keanu Reeves in the review?,Because he makes it watchable despite the script.,reasoning
+83b4f71c,Is John Wick praised for its intricate plot?,"No, it is described as having a somewhat barmy plotting.",distractor
+c1401d22,What are some common cliches mentioned in the review?,"Alarm clock going off, coffee brewing, casket being lowered in the rain, mystery package at the door, older hot cars with squealing tires, master killer with hidden arsenal, Reeves covered in tattoos, bad guys needing skill training, 'cleaning crew' to dispose of waste tissue",factual
+c4588907,Why does the reviewer mention that Reeves' character should be past the 17-year-old infatuation stage?,The reviewer implies that Reeves' character engaging in activities like driving hot cars and burning rubber seems immature for someone of his age and experience.,reasoning
+0f62a1bb,What nationality are the bad guys in the movie?,"The bad guys are implied to be Russian, as Reeves is covered in Russian iconic tattoos.",distractor
+9172c149,What movie is being reviewed in the snippet?,John Wick (2014),factual
+f3d106f8,Why do you think the reviewer chose to review John Wick?,The reviewer likely found the movie interesting or noteworthy.,reasoning
+f951b7c3,Is the review about John Wick (2017) instead of John Wick (2014)?,"No, the review is specifically about John Wick (2014).",distractor
+7ad8fb1c,What is the overall tone of the movie review?,"Predictable, juvenile revenge movie for 8 year olds.",factual
+ba741f2c,Why does the reviewer criticize the fight scenes in the movie?,They defy believability.,reasoning
+856499ac,"According to the review, what is Keanu Reeves' performance like in the movie?",Reeves mumbles his way through 2 hours with Matrix like fight scenes.,distractor
+563743fb,Who is the star of 'John Wick: Chapter 2'?,Keanu Reeves,factual
+1a3f7e35,Why does the reviewer mention that John Wick never makes a wrong move when hunted by assassins?,The reviewer suggests that it may lack credibility for the protagonist to always come out on top in such situations.,reasoning
+cf253bfb,Does the reviewer believe that Keanu Reeves' character in the movie faces any challenges?,"The reviewer mentions that John Wick gets shot, stabbed, and hit by cars multiple times, indicating that he faces challenges.",distractor
+a769089d,What is the movie review snippet about?,It's jam packed with action,factual
+e405afd2,Why does the reviewer love the movie?,It's jam packed with action,reasoning
+7061d65c,Is the movie review focused on romance?,No,distractor
+654f51a2,What is the title of the movie being reviewed?,John Wick: Chapter 2,factual
+2eb201b4,Why does the reviewer mention that the film has more head-shots than words spoken?,Because it is a very violent film,reasoning
+95df44d8,Is John Wick: Chapter 2 a quiet film with minimal violence?,"No, it is the most violent film the reviewer has seen in quite some time",distractor
+cd6332e9,What movie series did the reviewer commit to watching consecutively?,John Wick,factual
+265b728f,Why did the reviewer mention that 'John Wick' is not their thing?,It is a very monotonous 'shoot-em-all-up' actioner,reasoning
+4e51d40e,Did the reviewer express excitement about watching the fourth installment of 'John Wick'?,No,distractor
+6957b60f,What is the title of the movie being reviewed?,John Wick: Chapter 2,factual
+bc3061cb,Why does John Wick get pulled back into the world of assassins?,An Italian baddie calls in a favor,reasoning
+c0939324,Who is the main antagonist in the movie?,Italian baddie,distractor
+1927364f,Who calls in John Wick's Marker?,Santino D'Antonio,factual
+4a8c0321,Why does John Wick face deadly assassins and killers?,Because Santino D'Antonio uses him to gain power,reasoning
+eb1e2232,What is the main reason John Wick goes after Iosef's uncle?,To retrieve his car,distractor
+7b26f93a,What was the surprise hit movie in 2014 starring Keanu Reeves?,John Wick,factual
+ad5f58ad,Why did the reviewer initially skip out on watching John Wick?,The trailers only showed an assassin story that the reviewer felt they've seen before.,reasoning
+b313e966,What classic novels does the reviewer mention as examples of revenge stories?,The Count of Monte Cristo and Moby Dick,distractor
+4e78e5ce,What movie is being reviewed in the snippet?,John Wick: Chapter 2,factual
+99d6bdfe,Why is the review described as spoiler free?,To avoid giving away important plot details,reasoning
+77ff1ee9,Is the review highly critical of John Wick: Chapter 2?,"No, it does not mention any negative aspects",distractor
+3a204fda,Who delivers a notable performance as the titular character in John Wick 2?,Keanu Reeves,factual
+257b8a00,Why is the focus of John Wick 2 on the personal backstab of Wick?,The revenge theme was still part of the movie's plot but this time the focus is the personal backstab of Wick.,reasoning
+0c8a38b1,What is the main theme of John Wick 2 according to the review?,The revenge theme,distractor
+793e680c,Who returned to work on the script/direction for 'John Wick: Chapter 2'?,Stahelski and Kolstad,factual
+055edac4,Why does the reviewer mention that the first film was a great fun watch from start to finish?,"Because it offered emotion, delivered in the crime and drama genres, and had action as well.",reasoning
+d2d402b4,Is 'John Wick: Chapter 2' shorter than the first film?,"No, it is considerably longer than the first film at over 2 hours.",distractor
+12a2165e,What was the reviewer's opinion of the first John Wick film?,it was a cartoonish action film that was surprisingly brutal in its content,factual
+f74a049e,Why does the reviewer mention that John Wick 2 doesn't have the ability to sneak up on them unannounced?,because it was not as surprising as the first film,reasoning
+193f38f6,What aspect of John Wick 2 does the reviewer mention as the most disappointing?,not having the ability to sneak up on them unannounced,distractor
+7b59b26a,What is the reviewer's opinion of John Wick: Chapter 2?,It is not as good as almost everyone is portraying it to be.,factual
+80efd972,Why does the reviewer find the action in the movie repetitive?,"The action is very repetitive, with the reviewer getting full-fed after seeing the first two action scenes.",reasoning
+1f7a66fc,Is John Wick: Chapter 2 considered a groundbreaking movie according to the review?,"No, it is not as nearly as good as almost everyone is portraying it to be.",distractor
+339d7d5c,What is the movie being compared to in terms of its style?,classical orchestra,factual
+c73427bf,Why is John Wick described as untamed and unapologetically brutal?,Because he dances through a hail of bullets and faces a horde of assassins straight from a video game.,reasoning
+f9f53b50,What genre is John Wick: Chapter 2 described as?,noir,distractor
+fafeda65,Who is Keanu Reeves reunited with in this sequel?,Laurence Fishburne,factual
+3c940b30,Why was it nice to see Keanu Reeves and Laurence Fishburne as allies in the movie?,Because they were previously in The Matrix together,reasoning
+9283ac7c,What was the main focus of the sequel according to the review?,Keanu Reeves and Laurence Fishburne being allies,distractor
+f5e5d683,What type of movies does the reviewer love?,action movies,factual
+5d2b9565,Why does the reviewer consider this action movie a disaster?,Because it is an absolute disaster of an action movie,reasoning
+96dd0e09,Which action movie does the reviewer mention as being good?,Rambo,distractor
+868a7c14,What does the reviewer criticize about the movie?,pointless and stupid car chases and lots of explosions,factual
+149f42d5,Why does the reviewer suggest making violence more taboo in film ratings?,To address the excessive violence in action movies,reasoning
+ad5366d8,What does the reviewer praise about the movie?,formula for a successful action movie,distractor
+5e6aac09,Who plays the titular character in John Wick Chapter 2?,Keanu Reeves,factual
+1b7ba055,Why does the reviewer mention that John Wick: Chapter 2 sets the bar high?,"In its action, set design, and camera work",reasoning
+89b686e3,What type of films are known for their artistic value according to the review?,These types of films are rarely known for their artistic value,distractor
+0d9101bc,Where does John Wick travel to complete an assassination assignment?,Rome,factual
+3518aa8d,Why does John Wick rejoin his former profession?,To complete an assassination assignment,reasoning
+ea26a077,What is John Wick's main goal in the movie?,He wants his car back,distractor
+fff5205f,How does the reviewer describe the action in the movie?,"mindless and repetitive, consisting of fistfights, guns, and cars",reasoning
+913ce5b0,What does the reviewer think of the plot and character development in the movie?,"There is zero plot, zero character development, zero drama",factual
+e4d7f5d3,What is one reason the reviewer gives for why the movie might be rated highly?,young teens who judge movies on number of kills,distractor
+97e9c7bd,Who is the main character in the movie John Wick?,Keanu Reeves,factual
+672ec2cf,Why does John Wick come out of retirement in the movie?,Because someone killed his dog,reasoning
+d1767677,What is the main setting of the movie John Wick?,"Italy, Canada, and Manhattan",distractor
+e26ecfc4,Who asks John Wick to kill his sister Gianna D'Antonio?,Santino D'Antonio,factual
+ba011f50,Why does John Wick refuse to help Santino at first?,Because he is retired,reasoning
+5a143027,What is the name of the owner of the Continental hotel in New York City?,Winston,distractor
+73e72895,Who are some actors known for playing one man army roles in action movies in the 80s?,Sylvester Stallone or Arnold Schwarzenegger,factual
+a2ea969e,Why does the reviewer compare this movie to one man army movies from the 80s?,The reviewer mentions that the movie reminds them of the various one man army movies in the 80s played by Sylvester Stallone or Arnold Schwarzenegger.,reasoning
+515c7161,What type of combat is predominantly featured in this movie?,hand to hand combat and gun shootings,distractor
+b567fa99,What is the reviewer's opinion of John Wick?,one of my favourite recent years action movie,factual
+d9c579ff,Why does the reviewer appreciate the action in John Wick?,Its so refreshing to see everything and admire the practical stunt work,reasoning
+daa1cbba,Did the reviewer mention any issues with the action scenes in John Wick?,no bad shaky cams and jump cuts like a certain bad action movie i saw recently,distractor
+6d4a59df,What is the director's name of John Wick Chapter 2?,Chad Stahelski,factual
+1409bf38,Why does the reviewer mention the need for a plot in a violent movie?,"To go with all of the gunfire, blood and broken bones",reasoning
+aa51d27c,Does the reviewer mention any new elements brought by the director in the movie?,"No, the action is simply more of the same",distractor
+80028ede,Is this considered one of the best sequels ever made?,Yes,factual
+30f06f69,Why is this movie described as having 'No electric boogaloo'?,Because it is not a cheesy or inferior sequel,reasoning
+01163514,Does the review mention anything about the movie being a disappointment?,No,distractor
+88a28d52,What is the title of the third John Wick film mentioned in the review?,Parabellum,factual
+07e044f0,Why does the reviewer mention that the world filled with assassins makes no sense in the film?,Because it expands the world more than it can bear and hurts the film as it relies on it,reasoning
+5f4396de,Does the reviewer think that John Wick faces a lot of trouble from the assassins in the film?,"No, the whole lot of them can't seem to cause John Wick too much trouble",distractor
+c392869f,What film series is the reviewer a fan of?,John Wick films,factual
+bbe14914,Why does the reviewer start to long for a plot line or a human relationship in John Wick 3?,There needs to be more to a movie than just fighting.,reasoning
+f34bfa60,What aspect of the movie does the reviewer praise the most?,The action sequences,distractor
+c394fc82,Where does the majority of the movie take place?,"New York (then Casablanca, then New York again)",factual
+4498b171,Why does the reviewer find the movie brain dead?,The whole movie is Keanu reeves wandering around while killing people,reasoning
+7c9c4aa1,What is the main theme of the movie according to the review?,Undeniably action packed,distractor
+07455576,Where does the Head of the High Table live?,among camels in an African desert,factual
+4b50397d,Why do the numerous fighting scenes become dull after a while?,"There are some entertaining moments, however the numerous fighting scenes become dull after a while.",reasoning
+601c21c2,Can the High Table kill the main character despite their numerous attempts?,"They cannot kill one single man, even if they stab, shoot, throw him from the hotel roof or hit him with a car at full speed.",distractor
+74f34c3f,What is the main criticism of the fighting scenes in the movie?,boring,factual
+273efdef,Why does the reviewer mention that there are dozens of inept villains?,just to be shoot,reasoning
+0f8d825e,Is the main villain described as interesting or uninteresting in the review?,uninteresting,distractor
+a5dd6a09,What made the first John Wick film special?,It broke certain action film conventions.,factual
+ba31f521,Why was John Wick considered cool in the film?,Because it went against traditional action hero stereotypes.,reasoning
+5b7e90cd,Was the action in the film slow-paced?,"No, the action was super fast paced.",distractor
+72f12289,What nickname is John Wick given in the movie?,Baba Yaga,factual
+5b586147,Why does the reviewer suggest that John Wick may be a supernatural being?,"Due to his ability to evade death, appear and disappear like a ninja, and move with lightning fast reflexes despite his age",reasoning
+9a2917f6,What is the main outcome of the action scenes in the movie according to the review?,Wick is still alive and all of his enemies are dead,distractor
+4fa2141e,"How many people had been shot, stabbed, strangled, or otherwise dispatched in the film?",about 100 people,factual
+b9ff9d3e,Why did the reviewer start to yawn mid-way through the film?,The reviewer found the excessive violence to be monotonous and compared it to a video game.,reasoning
+9e92d3ee,Was Chapter 3 better than Chapter 2 according to the reviewer?,"Yes, the reviewer mentioned that Chapter 3 was better than Chapter 2.",distractor
+e251d817,What film did the reviewer see a picture of featuring Keanu Reeves on horseback shooting at motorcyclists?,'John Wick: Chapter 3 - Parabellum',factual
+29a0e4c7,Why has the reviewer been eagerly waiting to see how the shot looked in the actual film?,Because it was such a great looking shot,reasoning
+e12d4f78,Was the style of the film considered average or exceptional by the reviewer?,exceptional,distractor
+005134d3,What part of the movie does the reviewer find fantastically choreographed?,especially in the first 30 minutes,factual
+e6a950bd,Why does the reviewer think the action drops off after the first 30 minutes?,It drops off a bit in my opinion up until the final sequence,reasoning
+ee587e00,Is the action consistently great throughout the entire movie according to the review?,"No, it drops off a bit in my opinion up until the final sequence",distractor
+bb5ccd8b,Who is the creator of the John Wick universe?,Derek Kolstad,factual
+f4e6c6c0,Why did the reviewer mention that the story deepened and became beautiful in the third film?,Because the universe had to develop and expand itself in every new film,reasoning
+577c4b70,Did the reviewer mention that the John Wick series is based on a book?,No,distractor
+ed03f4e3,What is the title of the movie being reviewed?,John Wick: Chapter 3 - Parabellum,factual
+9e280449,Why does the reviewer find the plot of the movie repetitive?,The plot consists of John Wick running and killing assassins repeatedly.,reasoning
+67ac7b7a,How much money is the award that the assassins are after in the movie?,14 million dollars,distractor
+4e7f812c,What is the main criticism of the film in the review?,"It is dull, repetitive, and ultimately stupid.",factual
+2f5b1a61,Why does the reviewer compare the film to watching someone play a video game with an immortality cheat?,Because the film lacks any sense of danger or consequence.,reasoning
+fbb26ff1,Is the reviewer impressed with the humanity portrayed in the film?,"No, the film is lacking in any humanity.",distractor
+75db705a,What is the genre of John Wick: Chapter 3 - Parabellum?,action thriller,factual
+ffcb0c1c,Why does the review mention the film has a great sense of humour?,Because it adds to the joyful experience of the action thriller.,reasoning
+3cf83750,Does the review mention that John Wick: Chapter 3 - Parabellum is a slow-paced film?,No,distractor
+742e24ca,What does John insert into the flesh and bones of those involved in organised crime?,his wickedness,factual
+90539183,Why does the reviewer mention that some individuals may be visually impaired or only shoot blanks?,They are suggesting that those individuals are not skilled in handling weapons.,reasoning
+90149885,What is the main focus of the movie review snippet?,significant increase in body count contribution,distractor
+340e6b5b,What was the reviewer's overall opinion of the movie?,totally over-rated,factual
+a68fac2c,Why did the reviewer find the movie irritating?,because it quickly became the most irritating film the reviewer had seen that year,reasoning
+a9427992,Did the reviewer enjoy the first half hour of the movie?,"No, the reviewer enjoyed the first 10 mins but found it hard to watch after just half hour",distractor
+4590e212,What is the reviewer's opinion of John Wick 3?,the best action movie to have come out in a few years,factual
+16e4b686,Why does the reviewer find the action in John Wick 3 refreshing?,"because most action movies have shaky-cam, fast edits, and over-the-top fights",reasoning
+59aa4b53,Did the reviewer mention any CGI effects in John Wick 3?,"Yes, there were times that I wondered if they had used CGI",distractor
+b61abc67,What did the reviewer think about the plot of the movie?,the plot is weak,factual
+45e743c1,Why did the reviewer feel that the fight scenes were too long?,the fight scenes were way too long for the weak plot,reasoning
+2941ca73,Did the reviewer find Keanu's portrayal of his character in the movie lacking?,"No, Keanu still portrays his character as the Boogeyman really well",distractor
+7dcd6057,What did the reviewer think of the last fight sequence in the movie?,The last fight sequence was downright boring.,factual
+33fe3c49,Why did the reviewer express a desire for the movie to end?,I found myself wishing that the movie would just end; I didn't care who killed who.,reasoning
+6c5711af,Did the reviewer enjoy the action scenes in the movie?,"If you like gun play, endless, goofy, martial arts crap, and broken glass, this movie is for you!",distractor
+042b1dc3,Who is mentioned as one of the actors featured in the hand-to-hand combat scenes?,RAID actors and old-timer Mark Dacascos,factual
+94d75df5,Why does the reviewer mention that the action sequences in the movie are non-repetitive?,The sheer inventiveness of the action,reasoning
+1db1c97f,What type of animals are involved in the Moroccan brawl scene in the movie?,fighting dogs,distractor
+d6ea2ebc,What is the reviewer's opinion on the plot of the third John Wick film?,"Zero plot, typical anti-male female characters",factual
+9085471a,Why does the reviewer suggest that there are many 10/10 reviews for this movie?,Either the population is getting dumber or people are being paid to post positive reviews,reasoning
+5ff55be2,What is the main reason the reviewer gives for disliking the third John Wick film?,Ridiculous levels of gore beyond what is needed,distractor
+2df87218,"What genre did the film-makers forget to add to 'John Wick, Chapter 3: Parabellum'?",Fantasy,factual
+fb81ff57,Why is the absence of 'fantasy' as a genre significant in the movie?,It is significant because the film-makers forgot to include it in the list of applicable genres for the movie.,reasoning
+ff4633ab,"What is the main focus of the movie 'John Wick, Chapter 3: Parabellum' according to the review snippet?",The film-makers have forgotten to add 'fantasy' to the list of genres applicable to the movie.,distractor
+b9b8f887,What movie is being reviewed in this snippet?,John Wick 3,factual
+22b2b490,Why is it important to consider the components of a perfect action movie?,To understand what makes action movies special and what can elevate them to new heights.,reasoning
+b9038705,"According to the review, did the creators of John Wick 3 find all the answers to creating an instant classic?","No, they might not have found all the answers.",distractor
+365d4570,When was the reviewer able to catch an advanced screening of the movie?,13th of may 2019,factual
+abf52139,Why does the reviewer describe the fighting scenes as choreographed wonderfully?,Because they were choreographed wonderfully according to the reviewer's opinion,reasoning
+1e65d645,What is the reviewer's one word to describe the movie?,Amazing,distractor
+c6dbd5f1,What is John Wick: Chapter 3 - Parabellum about?,"consequences, dealing with the fallout of John's actions at the end of the previous film and sending him on an even bigger odyssey of violence",factual
+c84b49e5,Why does the movie continue to explore the world of assassination?,to deliver beautifully clean action sequences,reasoning
+6de70d13,Is John Wick's journey in this film smaller in scale compared to the previous one?,"No, it is even bigger",distractor
+e4de445e,What do the opponents in the video game use as weapons?,weapons that fire three or four bullets before they run out,factual
+0ae88bb1,Why does the reviewer mention that the cinematic feels like slow motion?,because the cinematic is in 4k or whatever,reasoning
+3083e7da,How does the reviewer describe the opponents' accuracy in the game?,They can't even hit you when they're next to you and wielding a knife,distractor
+35b1acdc,Who has condemned John Wick in the movie?,The Table,factual
+2c69ed51,Why does The Table empower The Marquis to deal with John Wick?,Because they want him taken care of,reasoning
+9773db05,Who is tasked with dealing with John Wick along with The Marquis?,The Manager of the New York Continentale Hotel,distractor
+0247b54e,How many John Wick films were released before Parabellum?,three,factual
+5f556178,Why did the reviewer feel that the action in the John Wick films became too much?,the action rapidly became too frenetic and over-the-top,reasoning
+bc055561,Did the reviewer enjoy the action sequences in the John Wick films?,no,distractor
+956b60c7,What is the reviewer's opinion on the John Wick movies?,They are unintelligent violent nonsense pretending to be movies.,factual
+8ad0071b,Why does the reviewer find dumb nonsense sometimes entertaining?,There is something entertaining about dumb nonsense sometimes.,reasoning
+408a1eed,Did the reviewer think the first two John Wick movies were decently okay?,"Yes, the first two of this franchise was decently okay in this regard.",distractor
+107532ce,What did the reviewer think about the photography and action sequences in the movie?,"the photography is gorgeous, the locations are wonderful and the action sequences are well coordinated",factual
+ef922726,Why does the reviewer feel that the true identity of the franchise was lost in this fourth chapter?,"When Chad Stahelski directed the first movie he was not expecting all this success and when the production company ordered sequels, he did not really know how to develop this saga",reasoning
+74a179ef,"According to the review, what was the director not expecting when he directed the first movie?",all this success,distractor
+9755d98b,How long was the movie in total?,2 hours and 35 mins,factual
+d752325f,Why did the reviewer feel the movie lacked a decent storyline?,It was mostly fighting with very little acting,reasoning
+220daafa,Was the majority of the movie focused on acting or fighting?,Fighting,distractor
+a82171ed,Who is the lead actor in this fourth installment of 8711's franchise?,Keanu Reeves,factual
+0bbf3559,Why does the reviewer mention that Keanu Reeves says little in the movie?,Because he wearily drags himself from setpiece to setpiece,reasoning
+1de3daab,What significant achievement does Keanu Reeves' character make in the movie?,Finally achieves nothing,distractor
+b8b26ac0,What is the reviewer's opinion of the movie?,worst movie of the franchise,factual
+036d95c8,Why does the reviewer think the movie is over the top?,Everybody seems to have magical jackets now to stop the bullets,reasoning
+a74f82ca,Is this movie considered the best in the franchise?,no,distractor
+bbf67768,What was the reviewer's opinion on the fight choreography?,"Repetitive, tiring and inauthentic",factual
+f74a4528,Why did the reviewer find the script to be generic?,Unnatural and generic one liner filled script,reasoning
+09f17704,Was the action hero described as unique or cliched?,Cliched,distractor
+2c1b4632,What did the reviewer think of the plot of the movie?,stupid,factual
+63e2e95f,Why did the reviewer think the movie lacked imagination?,They showed they were out of imagination and should have stopped with #2.,reasoning
+bf9a9d0b,"According to the review, what did the reviewer think of John Wick 1 and 2?",I loved John Wick 1. Thought #2 was OK.,distractor
+4ca32239,Which action franchises are mentioned as exceptions to the poor screenplays and overuse of CGI in American action flicks?,John Wick and Mission Impossible,factual
+43fa0dd5,Why does the reviewer think Hollywood can make action masterpieces but we mostly get Marvel movies instead?,Marvel has greater demand,reasoning
+42377063,"According to the review, what is the main reason why American action flicks have poor screenplays and overuse CGI?",Marvel's greater demand,distractor
+4b2702f4,How many times could the dog man have killed Wick?,Many.,factual
+4e4744a9,Why would the table head get Caine to kill Wick when he knows he won't?,To challenge the head to a duel as a rule.,reasoning
+c2805974,Why did everyone know Wick didn't shoot in the last round?,Because the stupid head bad guy was the only one who didn't know.,distractor
+1da33b0d,What aspect of the movie does the reviewer gush about in the review snippet?,the action,factual
+f7051baa,Why does the reviewer consider the action in this movie to be the best of the entire series?,"The reviewer was in complete awe and found the fight scenes unbelievably amazing, making them tear up and laugh.",reasoning
+b70f12b0,What genre does the reviewer mention as being the highlight of the John Wick series?,action,distractor
+bf86c57a,What was the main criticism of the fighting sequences in the movie?,The fighting sequences were heavily choreographically staged and looked forced and fake.,factual
+cd69bce3,Why did the reviewer feel that the screenplay was pretentious and pointless?,"The reviewer felt that the dialog looked forced and boring, and the scenarios and plots stacked up without any reason or clue.",reasoning
+65ce41b3,Did the reviewer mention anything positive about the movie?,"No, the reviewer did not mention anything positive about the movie.",distractor
+860e3058,What did the reviewer think about the length of the movie?,Even close to 3 hours it doesn't feel too long which is very special for an action movie.,factual
+d2c8e8de,Why was the reviewer worried about the movie being disappointing?,The franchise was losing a little momentum in chapter 3.,reasoning
+29d9a5fc,Did the reviewer mention any issues with the set pieces in the movie?,The set pieces as everyone mentioned before are really insane this time.,distractor
+2488fbea,What is the reviewer's opinion on the ratings of the movie?,No idea how the ratings are as high as they are,factual
+1d1bb6e2,Why does the reviewer suggest reading on if you found the first movie enjoyable but not the third one?,"If you thought the first one was enjoyable but the 3rd one was bull, read on",reasoning
+92019121,"According to the review, which movie did the reviewer find enjoyable?",the first one,distractor
+6436d4c9,How long was the film the reviewer saw?,2 hours & 39 minutes,factual
+694b45b8,Why was the reviewer looking forward to this film?,The reviewer was looking forward to this film because they enjoyed the John Wick films.,reasoning
+336ec0d8,Did the reviewer enjoy the film despite its troubled history of getting pushed back?,"No, the reviewer mentioned that the film was a bitter disappointment.",distractor
+c9754766,Who directed the movie John Wick?,Chad Stahelski,factual
+732c9011,Why is John Wick considered a comeback for Keanu Reeves?,It reinvigorated the action genre and became a surprise hit,reasoning
+63107a6b,What number sequel is John Wick 4?,number 4,distractor
+02a8d86b,Who are the key figures credited for the success of the John Wick franchise?,Chad Stahelski and Keanu Reeves,factual
+585d9402,Why were the expectations high for the fourth John Wick film?,The fourth film was seen as the culmination of everything before it and was 169 minutes long.,reasoning
+baf04735,Is the fourth John Wick film shorter than its predecessors?,"No, it is actually a whopping 169 minutes long.",distractor
+c0733e01,Who is solidified as the greatest martial arts action star of all time in John Wick: Chapter 4?,Keanu Reeves,factual
+f0abb44c,Why does the review mention that John Wick: Chapter 4 improves on the prior installment?,Because it solidifies Keanu Reeves as the greatest martial arts action star of all time,reasoning
+7455b297,Which actor is praised as the greatest martial arts action star of all time in the review?,Chad Stahelski,distractor
+15a91560,What is the IMDb rating of all three 'John Wick' films?,7.4/10,factual
+94bd3cc1,Why does the reviewer think 'John Wick: Chapter 4' is the best in the series?,Because it was a wild ride.,reasoning
+15c2e191,What rating did the reviewer give to 'John Wick: Chapter 4'?,8/10,distractor
+874d444d,How long is the movie John Wick?,2h49m,factual
+f81fe3fb,Why is John Wick considered the silliest action movie franchise in history?,It features a lot of fighting and biting,reasoning
+82bf3cfa,What is the main theme of John Wick according to the review?,Fighting and biting,distractor
+57a1175f,What did the reviewer think of the movie?,HORRIBLE movie.,factual
+006d6159,Why does the reviewer think the high scores on IMDB are fake?,Because all the 10s and 9s scores are so damn fake it's hilarious.,reasoning
+3bf455ef,Did the reviewer enjoy the fight scenes in the movie?,"No, the fights scene are so boring.",distractor
+56869144,How long was the movie the reviewer sat through?,nearly 3 hours,factual
+490d0eaf,Why did the reviewer compare the movie experience to being stuck on a roller coaster ride?,"the ride was bombastic, dark, and mumbly",reasoning
+7cde230e,Did the reviewer feel like they wasted their money on the movie?,I can't say that I didn't get my money's worth,distractor
+42deb86f,Was anything added to the overall Wick-universe narrative in John Wick: Chapter 4?,No.,factual
+4c8bdee8,Why is John Wick: Chapter 4 considered the weakest movie in the 'Wick' series?,Because it is almost three hours of gunfights with meaningless dialog-in-place-of-plot and a lot of people being thrown down stairs.,reasoning
+b1849ed7,Did Keanu Reeves deliver a standout performance in John Wick: Chapter 4?,Yes.,distractor

@@ -1,0 +1,121 @@
+id,question,ground_truth_context,question_type
+5a6cf176,Who is the main character in John Wick?,John Wick (Reeves),factual
+a2212d63,What are most movies nowadays full of?,"Most movies nowadays are full of wire work, sci-fi, etc. often topped with icing made of needless or predictable background stories that add nothing.",factual
+ea297774,How many previous films are mentioned in the review?,three,factual
+99708c3d,Who directed John Wick?,Directed by Chad Stahelski,factual
+d455cfe5,Who is the main character in the movie review?,retired assassin and 'Boogeyman' John Wick,factual
+06b9b40b,What is the main motivation for John Wick's actions in the movie?,"In this original John Wick (2014), an ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.",factual
+617b2dbc,What is John Wick described as in the review?,One of the most fun films of the year,factual
+3873ffa2,What is the title of the movie being reviewed?,John Wick,factual
+472b74e5,Who stars in John Wick?,Keanu,factual
+e82397aa,Who is the lead actor in John Wick?,Keanu Reeves,factual
+ff723fe5,Who is the main character in the movie?,Retired hit-man John Wick (Keanu Reeves),factual
+46e32261,What are some movies that JOHN WICK is compared to in the review?,"POINT BLANK, SLEEPLESS NIGHT, MEA CULPA, THE MAN FROM NOWHERE, and THE RAID films.",factual
+f58f5f7b,What word keeps coming back to mind when reviewing this movie?,exhilarating,factual
+7e60d80d,Who is mentioned as one of the nicest guys to work with in Hollywood?,Keanu Reeves,factual
+ac0f8495,Who is the main character in the movie 'John Wick'?,Keanu Reeve,factual
+a0264617,What type of movie is being reviewed?,Mediocre action movie.,factual
+c0319100,What happens to the guy's dog in the movie?,Guy's dog is murdered,factual
+8f14ab07,Who wrote the script for 'John Wick'?,Derek Kolstad,factual
+0a586348,Who is the main character in the movie?,John (Keanu Reeves),factual
+43e8d150,What rating did the reviewer give the movie 'John Wick'?,6,factual
+b8e85001,Who directed John Wick?,The film is directed by Reeve's stuntman from The Matrix.,factual
+c94903d7,Who stars in John Wick?,Keanu Reeves,factual
+215ea7a6,What are some common cliches mentioned in the movie review?,"1. Opening scene - alarm clock going off. 2. Coffee brewing. 3. Casket being lowered; raining for effect; long shot of cemetery showing stranger watching. 4. Afterwards, solemn wake party. 5. Mystery package at door. From? Of course. 6. Bad guys are (Guess what nationality?) $1000 if you have no idea. And, of course, are as stereotypic as cut-out doll figures. 7. Older hot cars and lots of squealing tires, burning rubber (or synthetic equivalent). You would think Reeves character would be past that 17 year old's infatuation. 8. Master killer still has an arsenal hidden away, why? Anticipated this precise series of events unfolding many years earlier. Or, nostalgia. 9. Reeves is covered in tats, of course, to show us toughness. Russian iconic tats no less - oops! 10. Dozen (cheaper that way) bad guys need some skill training because they're slow, dumb and can't seem to shoot at a target a few feet away and always walk around corners without looking first. 11. Been done before 'cleaning crew' just a call away to dispose of waste animal tissue (human of course). They always look the same in these movies.",factual
+1990dc7d,What is the title of the movie being reviewed?,John Wick (2014),factual
+1f03fd76,What type of movie is being described in the review?,"Predictable, juvenile revenge movie for 8 year olds.",factual
+5cb3284a,Who is the star of 'John Wick: Chapter 2'?,Reeves,factual
+348bf413,What is the movie packed with?,action,factual
+a8273ce4,What is the tone of John Wick: Chapter 2?,violent,factual
+f2ae1bce,What type of movie is 'John Wick' described as in the review?,a very monotonous 'shoot-em-all-up' actioner,factual
+a47a1a8d,What is the name of the movie being reviewed?,John Wick: Chapter 2,factual
+09e92a08,Why does the reviewer believe John Wick succeeds in its simplicity?,"John Wick gives the viewers what they want: Awesome action, stylish stunts, kinetic chaos, and a relatable hero to tie it all together.",reasoning
+abd9711d,Why did the filmmakers choose to avoid including certain common movie tropes in this film?,It looks as if the filmmakers realized that the public was sick of certain movies.,reasoning
+95ccd22b,Why did the reviewer decide to check out 'John Wick'?,I thought perhaps it would be time for me check out 'John Wick'.,reasoning
+20ffbde4,How does John Wick differentiate itself from today's action movies?,"Unlike today's action movies, it doesn't use quick-cuts or shaky cameras actually see what's going on.",reasoning
+dc9138c0,"How does the movie transition from being slow and ambiguous to full of stylized, visceral action scenes?","Slow and ambiguous at first, but reveals more as it goes along, and once it kicks into gear it rarely lets up with plenty of stylized, visceral action scenes",reasoning
+58fb4062,Why does John Wick come out of retirement to seek vengeance?,"In this original John Wick (2014), an ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.",reasoning
+e2d1fdd4,Why did the reviewer initially think John Wick would be absolutely terrible?,"John Wick is one of those few movies a year that seemed like it would be absolutely terrible, but when you finally sit down and watch it, turns out to be incredible.",reasoning
+cc63a9c6,How does the reviewer compare John Wick to other action films like Taken?,I personally think this film is better then all Taken films combined.,reasoning
+dece43c1,Why is the setup surprisingly emotional for an action flick in John Wick?,The setup is surprisingly emotional for an action flick in John Wick.,reasoning
+7ebad383,How does Keanu Reeves' performance as John Wick contribute to the success of the film?,"with the slickness of Keanu Reeves' performance as the titular character and the sheer brilliance in its action sequences, this marks the best action film of the year and one of the absolute best in the past decade.",reasoning
+6b854e72,Why is John Wick seeking revenge?,"John Wick is seeking revenge because some thugs broke into his house, beat him up, took the keys to his car, and killed the puppy his wife left him, not knowing who he was and just wanting the car.",reasoning
+b80275fa,Why is JOHN WICK compared to the Liam Neeson classic TAKEN?,"JOHN WICK is a relentless, pulse-pounding thriller that has plenty of similarity to the Liam Neeson classic TAKEN, albeit with a more simplistic (and also more emotionally intense) plot line.",reasoning
+f2127905,How does the reviewer describe the fun factor of the action film?,The fun factor this amazing action film has is probably the highest of any movie this year.,reasoning
+25e9e764,Why does the reviewer suggest that Hollywood should stop coming up with original ideas?,"because when they do, this is the result",reasoning
+56159e70,How does the running time of 'John Wick' contribute to the overall enjoyment of the film?,"At 1 hour and 36 minutes running time, there is never a dull moment in what may be one of the best action films of the year.",reasoning
+4dc8f737,Why is the movie described as mediocre?,Mediocre action movie.,reasoning
+bd92838f,Why does the reviewer believe there is no color to the story?,"There's no colour to the story, whatsoever; there are only garish colours in the nightclub scenes.",reasoning
+fe57dabc,Why did 'John Wick' become a very good film despite potential reasons for failure?,"The main reason for that is probably that it does not attempt to be anything of great cinematic value, does not try to teach groundbreaking stories on moral, loyalty or betrayal. Instead, Derek Kolstad's script goes for a gutsy revenge thriller that is not even hurt by its occasional predictability.",reasoning
+2d7af934,Why did the young Russian-American punk target John Wick?,"The punk targeted John Wick after noticing his classic car and trying to buy it off him, but Wick declined.",reasoning
+7cfa162d,Why does the reviewer give 'John Wick' a rating of 6 instead of 5?,It gets a slight bump for me in a rating of 6 instead of 5 because I did think that the cinematography was really good and also the fight choreography was top notch.,reasoning
+75d3ba10,How does the director's background in stunts contribute to the quality of the action sequences in the film?,"The film is directed by Reeve's stuntman from The Matrix, so this guy knows action. There are sequences that flow so smoothly it puts other action films and their quick cuts to shame.",reasoning
+13ca7d16,How does Keanu Reeves contribute to making John Wick watchable despite the script?,Keanu Reeves makes it watchable despite the script.,reasoning
+19a45a78,Why does the reviewer mention that the bad guys in the movie are as stereotypic as cut-out doll figures?,"Bad guys are (Guess what nationality?) $1000 if you have no idea. And, of course, are as stereotypic as cut-out doll figures.",reasoning
+82a4df62,Why is John Wick considered a must-watch movie?,John Wick is a must-watch movie because of its intense action sequences and impressive fight choreography.,reasoning
+307366e1,How does Keanu Reeves's performance contribute to the overall tone of the movie?,Reeves mumbles his way through 2 hours with Matrix like fight scenes that defy believability.,reasoning
+48042ef0,How can one person absorb that kind of punishment in 'John Wick: Chapter 2'?,"John (Keanu Reeves) gets shot, stabbed and hit by cars multiple times and postures a limp now and then to indicate he might have gotten just a little bit hurt.",reasoning
+510f839a,Why does the reviewer love the movie?,It's jam packed with action,reasoning
+aa068af7,How does John Wick: Chapter 2 succeed immensely despite being a very violent film?,"But it knows exactly what it wants to do, and succeeds immensely.",reasoning
+0a346144,Why did the reviewer decide not to watch the fourth installment of the 'John Wick' series?,"After watching the first three movies consecutively, the reviewer realized that 'John Wick' is not their thing as it is a very monotonous 'shoot-em-all-up' actioner that rapidly makes you go like 'yeah, whatever'.",reasoning
+0e238bc1,How does John Wick find himself back 'in' after wanting 'out'?,Wick is nevertheless forced back 'in' when an Italian baddie calls in a favor and Wick has no choice but to accept.,reasoning
+4d325ed1,Who is the main character in John Wick and what motivates him to seek revenge?,"The main character in John Wick is played by Keanu Reeves, and he is motivated to seek revenge because someone took something he loved from him, which in this case was his dog.",multi-hop
+29434f4d,What aspects of modern movies does the reviewer criticize and how does the movie in question differ?,"The reviewer criticizes modern movies for being full of wire work, sci-fi, and predictable background stories, such as moral speeches from beautiful girlfriends and troubled teenage daughters. The movie in question differs by not including these elements.",multi-hop
+d7c77698,"How many previous films were there before the fourth installment of John Wick, and what was the reviewer's reason for deciding to check out the movie?","There were three previous films before the fourth installment of John Wick, and the reviewer decided to check out the movie because the previous films were apparently loved by everyone else in the world.",multi-hop
+87baff39,Who directed John Wick and what is the main selling point of the film?,"Chad Stahelski directed John Wick and the main selling point of the film are some real virtuoso action sequences, well made choreographies.",multi-hop
+e788387f,What personal tragedy prompts retired assassin John Wick to seek vengeance against a group of Russian mobsters?,"The death of his dog, which was the last meaningful thing he had left.",multi-hop
+dc379286,"Who does John Wick seek vengeance against in the movie, and what event triggers his quest for revenge?",John Wick seeks vengeance against the gangsters who killed his dog and took everything from him. The event that triggers his quest for revenge is the untimely death of his beloved wife.,multi-hop
+a5659ae5,What sets John Wick apart from other action films according to the review?,"John Wick is different from other action films because it doesn't try to be inventive or over-the-top, it just plays to its strengths.",multi-hop
+043548f1,What is the budget and US box office earnings of the movie John Wick (2014)?,The movie John Wick (2014) was made for 20 million dollars and it made 40 million in the US.,multi-hop
+9ab32198,What aspects of John Wick make it a must-watch for fans of action movies?,"The beautifully choreographed action, surprisingly emotional setup, and Keanu Reeves' performance.",multi-hop
+50b582e6,Who is the lead actor in John Wick and what sets his performance apart in the film?,Keanu Reeves is the lead actor in John Wick and his slickness and brilliance in the action sequences set his performance apart in the film.,multi-hop
+8348e436,Why does John Wick seek revenge on the Russian gangster's son and why is the gangster sending killers after John?,"John Wick seeks revenge because the son of the Russian gangster broke into his house, beat him up, took his car keys, and killed his puppy. The Russian gangster is sending killers after John to save his son's life.",multi-hop
+27f5dfeb,What are some movies that JOHN WICK is compared to in terms of its intense and lean filmmaking style?,"POINT BLANK, SLEEPLESS NIGHT, MEA CULPA, THE MAN FROM NOWHERE, and THE RAID films",multi-hop
+b69ae8f5,What is the overall feeling the reviewer had towards the action film and how does it compare to other movies?,The reviewer found the movie exhilarating and stated that the fun factor of this action film is probably the highest of any movie this year.,multi-hop
+2748fa31,"Who is known for being one of the nicest guys to work with in Hollywood, but starred in this messy film filled with cliched action?",Keanu Reeves,multi-hop
+019a3a04,How long is the running time of the movie 'John Wick' and what is Keanu Reeves' character in the film?,1 hour and 36 minutes; John Wick,multi-hop
+5dbfa8d9,What type of movie is being described in the review and how is it being characterized?,"The movie being described is an action movie, and it is characterized as mediocre.",multi-hop
+6775f68e,What is the main plot of the movie and what is the reviewer's opinion on the lack of depth in the story?,"The main plot of the movie is about a guy seeking revenge for his dog's murder. The reviewer criticizes the lack of depth in the story, describing it as something that could be written on the back of a napkin.",multi-hop
+22942d97,What is one of the main reasons why 'John Wick' became a very good film despite potential reasons for failure?,"One of the main reasons why 'John Wick' became a very good film is because it does not attempt to be anything of great cinematic value, does not try to teach groundbreaking stories on moral, loyalty or betrayal. Instead, Derek Kolstad's script goes for a gutsy revenge thriller that is not even hurt by its occasional predictability.",multi-hop
+6bdcb742,What event triggers the conflict between John Wick and the Russian mobster in the movie?,"The conflict is triggered when a young Russian-American punk and his goons beat Wick, destroy his stuff, kill his dog, and steal his car after he declines to sell his classic car to the punk.",multi-hop
+2e683b11,What aspects of 'John Wick' led the reviewer to give it a rating of 6 instead of 5?,"The reviewer gave 'John Wick' a rating of 6 instead of 5 because they thought the cinematography was really good and the fight choreography was top notch, with influences from martial arts films.",multi-hop
+d235630e,Who directed John Wick and what previous film did they work on as a stuntman?,The film John Wick was directed by Reeve's stuntman from The Matrix.,multi-hop
+b9ee0946,Who makes John Wick watchable despite the somewhat barmy plotting?,Keanu Reeves,multi-hop
+59e9f710,"What stereotypical nationality are the bad guys in the movie, and what kind of tattoos does Reeves have to show toughness?","The bad guys are stereotypically Russian, and Reeves is covered in Russian iconic tattoos to show toughness.",multi-hop
+91f3b1e8,What is the name of the main character in the movie John Wick and who played this character?,The main character in the movie John Wick is named John Wick and he is played by Keanu Reeves.,multi-hop
+a1563694,"What kind of movie is described as predictable, juvenile, mindless, and childish in the review?",Revenge movie,multi-hop
+e4881bfc,Who is the star of 'John Wick: Chapter 2' and how does the reviewer feel about the credibility of the character's actions in the movie?,"The star of 'John Wick: Chapter 2' is Keanu Reeves. The reviewer feels that there should be more credibility put into the character's actions in the movie, as it is hard to believe that John Wick can survive being shot, stabbed, and hit by cars multiple times without showing more signs of injury.",multi-hop
+d1eba657,What is the reviewer's opinion on the amount of action in the movie?,The reviewer loves the movie because it is jam packed with action.,multi-hop
+3774ec55,What is the overall tone of the movie John Wick: Chapter 2 and how does it contribute to its success?,"The overall tone of the movie John Wick: Chapter 2 is extremely violent, with more head-shots than words spoken. This contributes to its success as it knows exactly what it wants to do and succeeds immensely.",multi-hop
+682632e3,What made the reviewer decide not to continue watching the 'John Wick' movies and go see the fourth installment in theaters?,"The reviewer found the 'John Wick' movies to be monotonous and not their thing, leading them to decide not to continue watching the series or see the fourth installment in theaters.",multi-hop
+6deb7ee2,"What event forces John Wick back into the world of hit men, despite his desire to leave it behind?",An Italian baddie calls in a favor and Wick has no choice but to accept.,multi-hop
+ff577e00,Who is the main character seeking revenge in John Wick?,John Wick,hard_negative
+830a338c,"According to the review, what are most movies nowadays full of?","wire work, sci-fi, etc.",hard_negative
+b642d78d,How many previous films in the John Wick series have been loved by everyone else in the world?,Three,hard_negative
+56d34d68,What is the main selling point of John Wick according to the review? A) Intricate plot B) Emotional dialogue C) Real virtuoso action sequences D) Romantic subplot,C) Real virtuoso action sequences,hard_negative
+4401ca51,What is the main criticism of the movie John Wick according to the review?,The over-the-top bloodletting and mayhem eventually becomes redundant.,hard_negative
+51ba5eab,What is the main reason John Wick comes out of retirement?,To track down the gangsters that killed his dog and took everything from him,hard_negative
+3de04d91,What makes John Wick stand out from other action films?,"It doesn't try to be inventive or over-the-top, it just plays to its strengths.",hard_negative
+a8dc9d3a,Which movie did Keanu Reeves star in before John Wick (2014)?,The Matrix (1999),hard_negative
+7615f690,What is the main focus of John Wick according to the review? A) Romance B) Comedy C) Action D) Drama,C) Action,hard_negative
+3a3f05c6,"Who stars as the lead character in John Wick, a film that is described as a direct-to-DVD slopfest starring John Cena on paper?",Keanu Reeves,hard_negative
+0b4a0204,What was the reason John Wick's wife left him a puppy?,She left him a puppy as a gift after her death.,hard_negative
+5d119ee5,"Which Hollywood actor starred in JOHN WICK, a film often compared to TAKEN?",Liam Neeson,hard_negative
+a76c88fd,What is the main emotion the reviewer felt while watching this movie?,exhilarating,hard_negative
+f579f3d1,What is the name of the movie being reviewed in this passage?,The Princess Bride,hard_negative
+5582da1f,Who plays the character John Wick in the movie?,Keanu Reeve,hard_negative
+8634dfe8,Is this movie considered a masterpiece of the action genre?,No,hard_negative
+5983a566,What is the main plot of the movie according to the review? A) A man's dog is kidnapped B) A man seeks revenge for his murdered dog C) A man becomes a vigilante superhero D) A man joins the Army,B) A man seeks revenge for his murdered dog,hard_negative
+9bdb9bdc,What is the main reason why 'John Wick' became a failure?,"The main reason for 'John Wick' not becoming a failure is that it does not attempt to be anything of great cinematic value and does not try to teach groundbreaking stories on moral, loyalty, or betrayal.",hard_negative
+d5c24669,What is the name of the main character in the movie review?,John Wick,hard_negative
+d2e84063,What aspect of 'John Wick' did the reviewer find particularly impressive?,the cinematography and fight choreography,hard_negative
+218fcb11,Who directed John Wick?,Reeve's stuntman from The Matrix,hard_negative
+1921aa8c,What type of scenes does John Wick have that are reminiscent of video games?,shooting,hard_negative
+a378b4ba,What is the main character's favorite type of coffee?,This question cannot be answered from the review provided.,hard_negative
+e61f31d9,In what year was John Wick released?,2014,hard_negative
+fcd445ef,What age group is the movie targeted towards?,8 year olds,hard_negative
+86eee861,What is the main reason the reviewer found it hard to believe the actions of the main character in 'John Wick: Chapter 2'?,"The reviewer found it hard to believe because John Wick (Keanu Reeves) gets shot, stabbed, and hit by cars multiple times without showing much injury.",hard_negative
+9e5693bf,What is the main focus of this movie review?,action,hard_negative
+f6f62ce7,What is the main focus of John Wick: Chapter 2?,Violence,hard_negative
+f20d42b5,What made the reviewer decide not to watch the fourth installment of the 'John Wick' series?,The monotonous nature of the 'shoot-em-all-up' action in the movies.,hard_negative
+fb77c372,What is the main reason John Wick is forced back 'in' to the hit man world?,an Italian baddie calls in a favor,hard_negative
